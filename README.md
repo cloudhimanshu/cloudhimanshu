@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Forecast.himanshu](https://github.com/rtxhoney/Forecast.himanshu)
 
-- 🌱 I’m currently learning **Reactjs , UX designing , Advance digital marketing**
+- 🌱 I’m currently learning **Reactjs , Node js , Advance digital marketing**
 
 - 👯 I’m looking to collaborate on **Social Media Web apk Project (sdlc)**
 
