@@ -45,4 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtxhoney&show_icons=true&locale=en" alt="rtxhoney" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtxhoney&" alt="rtxhoney" /></p>
-<img Align="right" alt="coding " width="400px" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
