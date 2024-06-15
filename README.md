@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rtxhoney](https://github.com/cloudhimanshu)
 
-- 💬 Ask me about **Front End Development , responsive design**
-
 - 📫 How to reach me **rtxhoney@duck.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rtxhoney/](https://www.linkedin.com/in/rtxhoney/)
