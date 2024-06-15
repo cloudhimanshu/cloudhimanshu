@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Social Media Web apk Project (sdlc)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rtxhoney](https://github.com/rtxhoney)
+- 👨‍💻 All of my projects are available at [https://github.com/rtxhoney](https://github.com/cloudhimanshu)
 
 - 💬 Ask me about **Front End Development , responsive design**
 
