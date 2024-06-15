@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Developer from Chandigarh , India</h3>
 
-- 👯 I’m looking to collaborate on **Social Media Web apk Project (sdlc)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rtxhoney](https://github.com/cloudhimanshu)
 
