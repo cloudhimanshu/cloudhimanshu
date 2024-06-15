@@ -3,20 +3,13 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Developer from Chandigarh , India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/rtxhoney" target="blank"><img src="https://img.shields.io/twitter/follow/rtxhoney?logo=twitter&style=for-the-badge" alt="rtxhoney" /></a> </p>
-
-- 🔭 I’m currently working on [Forecast.himanshu](https://github.com/rtxhoney/Forecast.himanshu)
-
-- 🌱
-
 - 👯 I’m looking to collaborate on **Social Media Web apk Project (sdlc)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rtxhoney](https://github.com/rtxhoney)
 
 - 💬 Ask me about **Front End Development , responsive design**
 
-- 📫 How to reach me **kaushikh9831@gmail.com**
+- 📫 How to reach me **rtxhoney@duck.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rtxhoney/](https://www.linkedin.com/in/rtxhoney/)
 
